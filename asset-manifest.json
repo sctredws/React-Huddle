@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Huddle/static/css/main.b2de5f54.chunk.css",
+    "main.js": "/React-Huddle/static/js/main.eade7e4f.chunk.js",
+    "main.js.map": "/React-Huddle/static/js/main.eade7e4f.chunk.js.map",
+    "runtime-main.js": "/React-Huddle/static/js/runtime-main.71927dfc.js",
+    "runtime-main.js.map": "/React-Huddle/static/js/runtime-main.71927dfc.js.map",
+    "static/js/2.4ffdf723.chunk.js": "/React-Huddle/static/js/2.4ffdf723.chunk.js",
+    "static/js/2.4ffdf723.chunk.js.map": "/React-Huddle/static/js/2.4ffdf723.chunk.js.map",
+    "static/js/3.6379642a.chunk.js": "/React-Huddle/static/js/3.6379642a.chunk.js",
+    "static/js/3.6379642a.chunk.js.map": "/React-Huddle/static/js/3.6379642a.chunk.js.map",
+    "index.html": "/React-Huddle/index.html",
+    "static/css/main.b2de5f54.chunk.css.map": "/React-Huddle/static/css/main.b2de5f54.chunk.css.map",
+    "static/js/2.4ffdf723.chunk.js.LICENSE.txt": "/React-Huddle/static/js/2.4ffdf723.chunk.js.LICENSE.txt",
+    "static/media/illustration-mockups.264994a5.svg": "/React-Huddle/static/media/illustration-mockups.264994a5.svg",
+    "static/media/logo.2b3c07e4.svg": "/React-Huddle/static/media/logo.2b3c07e4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71927dfc.js",
+    "static/js/2.4ffdf723.chunk.js",
+    "static/css/main.b2de5f54.chunk.css",
+    "static/js/main.eade7e4f.chunk.js"
+  ]
+}
